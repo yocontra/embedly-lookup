@@ -28,8 +28,8 @@
 
 ```
 npm install embedly-lookup --save
-
 ```
+
 ## Example
 
 ```js
