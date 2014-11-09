@@ -1,7 +1,7 @@
 {
   "name": "embedly-lookup",
   "description": "Simply look up info about a URL on embed.ly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/wearefractal/embedly-lookup",
   "repository": "git://github.com/wearefractal/embedly-lookup.git",
   "author": "Fractal contact@wearefractal.com (http://wearefractal.com)",
