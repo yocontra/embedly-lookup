@@ -20,6 +20,7 @@ describe('embedly-lookup', function() {
       res.author_url.should.equal('http://soundcloud.com/smallenginerepair');
       res.version.should.equal('1.0');
       res.provider_name.should.equal('SoundCloud');
+      should.exist(res.html);
       done();
     });
   });
